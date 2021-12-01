@@ -23,7 +23,7 @@ def circulate():
 ```
 
 ## Output:
-![GitHub Logo](.//image.png)
+![GitHub Logo](.//screenshot.png)
 
 
 ## Result:
