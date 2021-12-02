@@ -23,7 +23,7 @@ def circulate():
 ```
 
 ## Output:
-![out put](.//screenshot.PNG)
+![out put](.//image.PNG)
 
 
 ## Result:
